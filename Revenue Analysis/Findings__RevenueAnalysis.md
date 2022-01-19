@@ -1,12 +1,10 @@
 # ***FINDINGS:***
-
+<br/>
+<br/>
 > ### \*\*\*\*\* **\#1 'OVERALL TREND CHECK**' \*\*\*\*\*
-
+<br/>
 1.  So, the results show a clear **'decline'** in the Revenue every year. (along
     with Sales Quantity)
-<br/>
-<br/>
-<br/>
 
 |   | **Year** | **Revenue**      | **Sales_Qty** |
 |---|----------|------------------|---------------|
@@ -23,6 +21,7 @@
     '23,704,090.83' ...so, on same rate, yearly Revenue would ideally be =
     '28,44,49,089.96' (28.4Cr)
 
+<br/>
 2.  This implies,
 
 - from 2017 (estimated 37Cr) to 2018 (41.4Cr) year-on-year growth --\> 0.11346
@@ -36,6 +35,7 @@
 
 - Which means on an Average, (-0.07591) **'7.5% decline'** in Revenue every year.
 
+<br/>
 3.  Quarter-on-Quarter (Q-O-Q) :
 
 |   | **Yearr** | **Quarterr** | **Quarterly_Revenue** | **Quarterly_Revenue_Change** | **Sales_Qty** |
@@ -52,10 +52,13 @@
 |   | 2020      | 1            | 78965343              | **4.07**                     | 204413        |
 |   | 2020      | 2            | 63259202              | **-19.89**                   | 145827        |
 
+<br/>
+<br/>
 \#====================================================================================
-
+<br/>
+<br/>
 > ### \*\*\*\*\* **\#2 'GEOGRAPHIC PRESENCE and REGIONAL CONTRIBUTION'** \*\*\*\*\*
-
+<br/>
 1.  They have presence in **14 cities**, which has mostly remained **constant**
     over years.
 
@@ -66,6 +69,7 @@
 |   | 2019      | **14**                  |
 |   | 2020      | **14**                  |
 
+<br/>
 2.  The **Top 5 Revenue Generating Cities** have nearly remained the same (and
     in the same order as well) throughout the Years.
 
@@ -80,12 +84,16 @@
 - Thus, **Delhi NCR** being their major cash-cow, which tops the list with
     hefty margin every year.
 
+<br/>
+<br/>
 \#====================================================================================
-
+<br/>
+<br/>
 > ### \*\*\*\*\* **\#3 'PRODUCT-WISE PERFORMANCE'** \*\*\*\*\*
-
+<br/>
 1.  Firstly, their inventory includes **'279' different types of products**.
 
+<br/>
 2.  Out of the '279' total types of products in the inventory, not all types
     have been sold each year... there's been lot of fluctuations!
 
@@ -105,6 +113,7 @@
 - While, even after having **6 months** of Data from **'2020'**, only a mere
     **'197'** types of products have made their way.
 
+<br/>
 3.  We see that, the **Product Prices** range from :
 
 - **'Rs.0.9024'** (when 41-Qty were sold for Rs.37) to
@@ -114,6 +123,7 @@
 - **Also, they've fulfilled orders ranging from 'Rs.5' upto 'Rs.15,10,944'
     !!**
 
+<br/>
 4.  **Categorizing** the products based on prices:
 
 |   | **Price_Range**  | **No_of_Unique_Products_in_this_Range** | **Revenue_Generated_from_this_Range** | **Percentage_contribution_to_Revenue** |
@@ -149,6 +159,7 @@
         at different point of times**, so they get counted in all those
         categories of 'Price_Range'.
 
+<br/>
 5.  **‘Own Brand’** vs **‘Distribution’** products:
 
 |   | **YEARR** | **Total_SalesQty** | **SalesQty_OWN_BRAND** | **Percent_of_Total_SalesQty** | **SalesQty\_** **DISTRIBUTION** | **Percent_of_Total_SalesQty** | **Revenue_from\_** **OWN_BRAND** | **Revenue_from\_** **DISTRIBUTION** |
@@ -168,6 +179,7 @@
 - On an avg, **'Own Brand'** products generate **'2.5x'** more **Revenue**
     than **'Dsitribution'** products.
 
+<br/>
 6.  Top 5 Products Annually:
 
 |   | **Yearr** | **Rnk** | **product_code** | **product_type** | **Revenue** | **Contribution_to_Total_Revenue_that_year** |
@@ -230,12 +242,16 @@ Thus, we see that : (There's **no clear winner!**)
 **'3.22%'**, **'3.74%'** and **'3.07%'** of Revenue Contribution in respective
 years.
 
+<br/>
+<br/>
 \#====================================================================================
-
+<br/>
+<br/>
 > ### \*\*\*\*\* **\#4 'CUSTOMER-WISE PERFORMANCE'** \*\*\*\*\*
-
+<br/>
 1.  Over the lifetime it has served only **"38"** Unique Customers!
 
+<br/>
 2.  Annually Repeating/New Customers :
 
 |   | **Yearr** | **DISTINCT customer_code** |
@@ -258,6 +274,7 @@ years.
 
 - No previous customer unserved in any year! --**100% Customer Retention.**
 
+<br/>
 3.  **Brick & Mortar** vs. **E-Commerce** sales:
 
 |   | **year** | **Total_SalesQty** | **SalesQty\_** **BRICK&MORTAR** | **Percent_of\_** **Total_SalesQty** | **SalesQty\_** **E-COMMERCE** | **Percent_of\_** **Total_SalesQty** | **Revenue_from\_** **BRICK&MORTAR** | **Revenue_from\_** **E-COMMERCE** |
@@ -282,6 +299,7 @@ years.
     increase their efforts on **'Online Presence'** through **'Digital
     Marketing'** and flourish over **'E-COMMERCE'** !!
 
+<br/>
 4.  **Top 5 Customers** each year:
 
 |   | **Yearr** | **Rnk** | **customer_code** | **customer_name**         | **customer_type** | **Revenue** | **Contribution_to_Total_Revenue_that_year** |
@@ -336,15 +354,19 @@ years.
 - Mostly all the Customers in the list are 'BRICK & MORTAR' stores...
     "**Electricalslytical**" is the lone **'E-COMMERCE'** customer.
 
+<br/>
+<br/>
 \#====================================================================================
-
-
+<br/>
+<br/>
 
 
 > #### 1. REVENUE ANALYSIS :
 ![IMAGE_RevenueAnalysis](https://user-images.githubusercontent.com/86950272/150141755-38812f80-1b28-4079-9dea-2dba99d8d498.png)
 ([Click Here!](https://public.tableau.com/app/profile/harshmamania/viz/SalesInsights_RevenueAnalysis/Dashboard-RevenueAnalysi) to checkout the 'Interactive' form of my Dashboard)
 
+<br/>
+<br/>
     
 > #### 2. PROFIT ANALYSIS :    
 ![IMAGE _ProfitAnalysis](https://user-images.githubusercontent.com/86950272/150141796-6c4b3bb5-81ad-45fc-8dcf-9fd48281f4bb.png)    
