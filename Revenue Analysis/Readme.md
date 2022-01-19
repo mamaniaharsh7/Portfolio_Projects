@@ -36,11 +36,12 @@ Thus, wants to take **Sales related decisions backed by** **DATA**!
 #### *"A picture is worth a thousand words."*
 
 #### 1. REVENUE ANALYSIS :
-<<insert img>>
+![IMAGE_RevenueAnalysis](https://user-images.githubusercontent.com/86950272/150141755-38812f80-1b28-4079-9dea-2dba99d8d498.png)
 ([Click Here!](https://public.tableau.com/app/profile/harshmamania/viz/SalesInsights_RevenueAnalysis/Dashboard-RevenueAnalysi) to checkout the 'Interactive' form of my Dashboard)
 
+    
 #### 2. PROFIT ANALYSIS :    
-<<insert img>>
+![IMAGE _ProfitAnalysis](https://user-images.githubusercontent.com/86950272/150141796-6c4b3bb5-81ad-45fc-8dcf-9fd48281f4bb.png)    
 ([Click Here!](https://public.tableau.com/app/profile/harshmamania/viz/SalesInsights_ProfitAnalysis/Dashboard-ProfitAnalysis) to checkout the 'Interactive' form of my Dashboard)
   
 ### Tools used :
