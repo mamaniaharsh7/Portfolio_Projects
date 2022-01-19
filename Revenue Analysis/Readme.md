@@ -33,7 +33,7 @@ Thus, wants to take **Sales related decisions backed by** **DATA**!
 
 ## Final Dashboards :
 
-#### > "A picture is worth a thousand words."
+#### *"A picture is worth a thousand words."*
 
 #### 1. REVENUE ANALYSIS :
 <<insert img>>
@@ -45,7 +45,7 @@ Thus, wants to take **Sales related decisions backed by** **DATA**!
   
 ### Tools used :
 
-[^1]: Here, I've used *_MySQL_* for performing my Analysis on the available SQL Data Dump.
-[^2]: To develop the interactive Dashboard, I've used *_TABLEAU_*.
+- Here, I've used *_MySQL_* for performing my Analysis on the available SQL Data Dump.
+- To develop the interactive Dashboard, I've used *_TABLEAU_*.
   
-[^note]: Suggestion and Improvements are always welcome! :grin:
+Suggestion and Improvements are always welcome! :grin:
