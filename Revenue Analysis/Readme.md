@@ -48,4 +48,5 @@ Thus, wants to take **Sales related decisions backed by** **DATA**!
 - Here, I've used *_MySQL_* for performing my Analysis on the available SQL Data Dump.
 - To develop the interactive Dashboard, I've used *_TABLEAU_*.
   
+    
 Suggestion and Improvements are always welcome! :grin:
