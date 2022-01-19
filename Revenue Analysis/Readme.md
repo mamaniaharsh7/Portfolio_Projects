@@ -10,10 +10,10 @@
 > Delhi, regional offices in many states. We have their sales data with over
 > 150,000 Transactions.
 
-Sales Director is having a lot of struggle tracking where the business is
-failing. Regional managers keep painting a rosy picture when summoned by Sales
-Director. They give him big Excel files. So he doesn’t know what's happening at
-ground level.
+> Sales Director is having a lot of struggle tracking where the business is
+> failing. Regional managers keep painting a rosy picture when summoned by Sales
+> Director. They give him big Excel files. So he doesn’t know what's happening at
+> ground level.
 
 He wants to know things like :
 
