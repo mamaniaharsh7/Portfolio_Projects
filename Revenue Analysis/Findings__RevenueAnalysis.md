@@ -5,10 +5,7 @@
 1.  So, the results show a clear **'decline'** in the Revenue every year. (along
     with Sales Quantity)
 
-
-
-
-
+/
 
 |   | **Year** | **Revenue**      | **Sales_Qty** |
 |---|----------|------------------|---------------|
