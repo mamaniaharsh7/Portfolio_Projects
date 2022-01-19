@@ -1,10 +1,9 @@
 # ***FINDINGS:***
 
-\*\*\*\*\* **\#1 'OVERALL TREND CHECK**' \*\*\*\*\*
+### \*\*\*\*\* **\#1 'OVERALL TREND CHECK**' \*\*\*\*\*
 
 1.  So, the results show a clear **'decline'** in the Revenue every year. (along
     with Sales Quantity)
-<\br>
 
 |   | **Year** | **Revenue**      | **Sales_Qty** |
 |---|----------|------------------|---------------|
@@ -13,28 +12,28 @@
 |   | 2019     | **33,60,19,102** | 8,47,083      |
 |   | 2020     | **14,22,24,545** | 3,50,240      |
 
--   For ‘2017’ data from '2017-10-04' ... monthly avg for 3 given months =
+- For ‘2017’ data from '2017-10-04' ... monthly avg for 3 given months =
     '30,960,884.33' ...so, on same rate, yearly Revenue would ideally be =
     '37,15,30,611.96' (37Cr)
 
--   For ‘2020’ data till '2020-06-26' ... monthly avg for 6 given months =
+- For ‘2020’ data till '2020-06-26' ... monthly avg for 6 given months =
     '23,704,090.83' ...so, on same rate, yearly Revenue would ideally be =
     '28,44,49,089.96' (28.4Cr)
 
-1.  This implies,
+2.  This implies,
 
--   from 2017 (estimated 37Cr) to 2018 (41.4Cr) year-on-year growth --\> 0.11346
+- from 2017 (estimated 37Cr) to 2018 (41.4Cr) year-on-year growth --\> 0.11346
     (**11% incline**)
 
--   from 2018 (41.4Cr) to 2019 (33.6Cr) year-on-year growth --\> -0.18774 (**19%
+- from 2018 (41.4Cr) to 2019 (33.6Cr) year-on-year growth --\> -0.18774 (**19%
     decline**)
 
--   from 2019 (33.6Cr) to 2020 (estimated 28.4Cr) year-on-year growth --\>
+- from 2019 (33.6Cr) to 2020 (estimated 28.4Cr) year-on-year growth --\>
     \-0.15347 *(***15% decline**)
 
-Which means on an Average, (-0.07591) **'7.5% decline'** in Revenue every year.
+- Which means on an Average, (-0.07591) **'7.5% decline'** in Revenue every year.
 
-1.  Quarter-on-Quarter (Q-O-Q) :
+3.  Quarter-on-Quarter (Q-O-Q) :
 
 |   | **Yearr** | **Quarterr** | **Quarterly_Revenue** | **Quarterly_Revenue_Change** | **Sales_Qty** |
 |---|-----------|--------------|-----------------------|------------------------------|---------------|
@@ -52,7 +51,7 @@ Which means on an Average, (-0.07591) **'7.5% decline'** in Revenue every year.
 
 \#====================================================================================
 
-\*\*\*\*\* **\#2 'GEOGRAPHIC PRESENCE and REGIONAL CONTRIBUTION'** \*\*\*\*\*
+### \*\*\*\*\* **\#2 'GEOGRAPHIC PRESENCE and REGIONAL CONTRIBUTION'** \*\*\*\*\*
 
 1.  They have presence in **14 cities**, which has mostly remained **constant**
     over years.
@@ -64,7 +63,7 @@ Which means on an Average, (-0.07591) **'7.5% decline'** in Revenue every year.
 |   | 2019      | **14**                  |
 |   | 2020      | **14**                  |
 
-1.  The **Top 5 Revenue Generating Cities** have nearly remained the same (and
+2.  The **Top 5 Revenue Generating Cities** have nearly remained the same (and
     in the same order as well) throughout the Years.
 
 |   |   | **Rnk** | **City**      |
@@ -75,12 +74,12 @@ Which means on an Average, (-0.07591) **'7.5% decline'** in Revenue every year.
 |   |   | 4       | **Bhopal**    |
 |   |   | 5       | **Nagpur**    |
 
--   Thus, **Delhi NCR** being their major cash-cow, which tops the list with
+- Thus, **Delhi NCR** being their major cash-cow, which tops the list with
     hefty margin every year.
 
 \#====================================================================================
 
-\*\*\*\*\* **\#3 'PRODUCT-WISE PERFORMANCE'** \*\*\*\*\*
+### \*\*\*\*\* **\#3 'PRODUCT-WISE PERFORMANCE'** \*\*\*\*\*
 
 1.  Firstly, their inventory includes **'279' different types of products**.
 
@@ -94,25 +93,25 @@ Which means on an Average, (-0.07591) **'7.5% decline'** in Revenue every year.
 |   | 2019      | **238**                    |
 |   | 2020      | **197**                    |
 
--   Essentially, it appears that with every passing year, lot of products have
+- Essentially, it appears that with every passing year, lot of products have
     gone **unsold/been discontinued.**
 
--   Given the fact that we have only **3 months** of data from **'2017'**, still
+- Given the fact that we have only **3 months** of data from **'2017'**, still
     there were **'208'** different products sold
 
--   While, even after having **6 months** of Data from **'2020'**, only a mere
+- While, even after having **6 months** of Data from **'2020'**, only a mere
     **'197'** types of products have made their way.
 
-1.  We see that, the **Product Prices** range from :
+3.  We see that, the **Product Prices** range from :
 
--   **'Rs.0.9024'** (when 41-Qty were sold for Rs.37) to
+- **'Rs.0.9024'** (when 41-Qty were sold for Rs.37) to
 
--   **'Rs.5056'(when 1-Qty were sold for Rs.5056) !!**
+- **'Rs.5056'(when 1-Qty were sold for Rs.5056) !!**
 
--   **Also, they've fulfilled orders ranging from 'Rs.5' upto 'Rs.15,10,944'
+- **Also, they've fulfilled orders ranging from 'Rs.5' upto 'Rs.15,10,944'
     !!**
 
-1.  **Categorizing** the products based on prices:
+4.  **Categorizing** the products based on prices:
 
 |   | **Price_Range**  | **No_of_Unique_Products_in_this_Range** | **Revenue_Generated_from_this_Range** | **Percentage_contribution_to_Revenue** |
 |---|------------------|-----------------------------------------|---------------------------------------|----------------------------------------|
@@ -128,26 +127,26 @@ Which means on an Average, (-0.07591) **'7.5% decline'** in Revenue every year.
 |   | **4500 to 5000** | **3**                                   | 18976                                 | **0.0019**                             |
 |   | **5000 to 5500** | **1**                                   | 15148                                 | **0.0015**                             |
 
--   Thus, we see that the **most 'economical' price ranges** contribute the most
+- Thus, we see that the **most 'economical' price ranges** contribute the most
     to the **Revenue**!!
 
-    -   As, the we keep going up in the 'price range', their contribution to the
+    - As, the we keep going up in the 'price range', their contribution to the
         Revenue keeps going down. (**Inversely** related)
 
--   Also, the good thing is that, these **economic yet lucrative** categories
+- Also, the good thing is that, these **economic yet lucrative** categories
     enjoy the **most No. Of Products.**
 
-    -   which implies good sense of **pricing** and **placement**
+    - which implies good sense of **pricing** and **placement**
 
--   We notice that though the total no. of 'Unique' products was only **'338'**,
+- We notice that though the total no. of 'Unique' products was only **'338'**,
     but if we try to Sum up the 'No_of_Unique_Products_in_this_Range' column, it
     goes way **beyond 338**...How's that possible?
 
-    -   Well, maybe some products have been introduced with **different prices
+    - Well, maybe some products have been introduced with **different prices
         at different point of times**, so they get counted in all those
         categories of 'Price_Range'.
 
-1.  **‘Own Brand’** vs **‘Distribution’** products:
+5.  **‘Own Brand’** vs **‘Distribution’** products:
 
 |   | **YEARR** | **Total_SalesQty** | **SalesQty_OWN_BRAND** | **Percent_of_Total_SalesQty** | **SalesQty\_** **DISTRIBUTION** | **Percent_of_Total_SalesQty** | **Revenue_from\_** **OWN_BRAND** | **Revenue_from\_** **DISTRIBUTION** |
 |---|-----------|--------------------|------------------------|-------------------------------|---------------------------------|-------------------------------|----------------------------------|-------------------------------------|
@@ -156,17 +155,17 @@ Which means on an Average, (-0.07591) **'7.5% decline'** in Revenue every year.
 |   | 2019      | 706455             | 495559                 | **70.1473**                   | 210896                          | **29.8527**                   | 126207845                        | 55198050                            |
 |   | 2020      | 291468             | 190567                 | **65.3818**                   | 100901                          | **34.6182**                   | 47576491                         | 29818192                            |
 
--   Over the years, we can say that, out of **'100'** products sold, on an
+- Over the years, we can say that, out of **'100'** products sold, on an
     Average **'75'** would be **'Own Brand'** and **'25'** would be of
     **'Distribution'** Type.
 
--   So, it's a no-brainer that their 'Own Brand' sums up to the major part of
+- So, it's a no-brainer that their 'Own Brand' sums up to the major part of
     the 'Total Revenue'!
 
--   On an avg, **'Own Brand'** products generate **'2.5x'** more **Revenue**
+- On an avg, **'Own Brand'** products generate **'2.5x'** more **Revenue**
     than **'Dsitribution'** products.
 
-1.  Top 5 Products Annually:
+6.  Top 5 Products Annually:
 
 |   | **Yearr** | **Rnk** | **product_code** | **product_type** | **Revenue** | **Contribution_to_Total_Revenue_that_year** |
 |---|-----------|---------|------------------|------------------|-------------|---------------------------------------------|
@@ -196,45 +195,45 @@ Which means on an Average, (-0.07591) **'7.5% decline'** in Revenue every year.
 
 Thus, we see that : (There's **no clear winner!**)
 
--   Since, the 'Percent contribution' of any product to that year's revenue has
+- Since, the 'Percent contribution' of any product to that year's revenue has
     never been more than **'9.5%** and **6.3%**' ==\> no single product has been
     a major contributor to the Revenue, it is **accumulated from small amounts**
     generated by **all products**.
 
--   Mostly all the products are from **'Own Brand'** ==\> 'Own Brand' products
+- Mostly all the products are from **'Own Brand'** ==\> 'Own Brand' products
     are major contributors to the **Revenue**, and hardly any from
     'Distribution' products.
 
--   There are hardly any products that have **repeated** themselves over years!
+- There are hardly any products that have **repeated** themselves over years!
     ==\> this goes on to say that, it's **difficult to predict** which product
     will do well in a given year... it's totally **random** --\> which will be
     very **difficult** to plan **inventory**, **pricing** and **offers** on
     products.
 
--   only 3 products have featured Twice :
+- only 3 products have featured Twice :
 
-“**Prod239**” **'2nd'** in 2017, **'5th'** in 2018 ==\> **'3.82%'** and
+    - “**Prod239**” **'2nd'** in 2017, **'5th'** in 2018 ==\> **'3.82%'** and
 **'3.39%'** of Revenue Contribution in respective years.
 
-“**Prod040**” **'1st'** in 2018, **'2nd'** in 2019 ==\> **'6.30%'** and
+    - “**Prod040**” **'1st'** in 2018, **'2nd'** in 2019 ==\> **'6.30%'** and
 **'4.27%'** of Revenue Contribution in respective years.
 
-“**Prod065**” **'3rd'** in 2019, **'4th'** in 2020 ==\> **'3.76%'** and
+    - “**Prod065**” **'3rd'** in 2019, **'4th'** in 2020 ==\> **'3.76%'** and
 **'4.05%'** of Revenue Contribution in respective years.
 
--   And, only 1 Product has featured Thrice :
+- And, only 1 Product has featured Thrice :
 
-“**Prod053**” **'5th'** in 2017, **'3rd'** in 2018, **'4th'** in 2019 ==\>
+    - “**Prod053**” **'5th'** in 2017, **'3rd'** in 2018, **'4th'** in 2019 ==\>
 **'3.22%'**, **'3.74%'** and **'3.07%'** of Revenue Contribution in respective
 years.
 
 \#====================================================================================
 
-\*\*\*\*\* **\#4 'CUSTOMER-WISE PERFORMANCE'** \*\*\*\*\*
+### \*\*\*\*\* **\#4 'CUSTOMER-WISE PERFORMANCE'** \*\*\*\*\*
 
 1.  Over the lifetime it has served only **"38"** Unique Customers!
 
-1.  Annually Repeating/New Customers :
+2.  Annually Repeating/New Customers :
 
 |   | **Yearr** | **DISTINCT customer_code** |
 |---|-----------|----------------------------|
@@ -243,20 +242,20 @@ years.
 |   | 2019      | 38                         |
 |   | 2020      | 38                         |
 
--   So, since the 'Total Unique Customers' served in "entire lifetime" of the
+- So, since the 'Total Unique Customers' served in "entire lifetime" of the
     dataset are '38'
 
--   and, the total 'Total Unique Customers' served "per year" are also'38', for
+- and, the total 'Total Unique Customers' served "per year" are also'38', for
     all the Years : 2017 to 2020
 
--   We can say that : **Each year, it has served 'ALL' of the 'SAME' 38
+- We can say that : **Each year, it has served 'ALL' of the 'SAME' 38
     customers.**
 
--   No new customers acquired in any year! --**0 New Customer Acquisition.**
+- No new customers acquired in any year! --**0 New Customer Acquisition.**
 
--   No previous customer unserved in any year! --**100% Customer Retention.**
+- No previous customer unserved in any year! --**100% Customer Retention.**
 
-1.  **Brick & Mortar** vs. **E-Commerce** sales:
+3.  **Brick & Mortar** vs. **E-Commerce** sales:
 
 |   | **year** | **Total_SalesQty** | **SalesQty\_** **BRICK&MORTAR** | **Percent_of\_** **Total_SalesQty** | **SalesQty\_** **E-COMMERCE** | **Percent_of\_** **Total_SalesQty** | **Revenue_from\_** **BRICK&MORTAR** | **Revenue_from\_** **E-COMMERCE** |
 |---|----------|--------------------|---------------------------------|-------------------------------------|-------------------------------|-------------------------------------|-------------------------------------|-----------------------------------|
@@ -265,22 +264,22 @@ years.
 |   | 2019     | 847083             | 651750                          | **76.9405**                         | 195333                        | **23.0595**                         | 257563281                           | 78455821                          |
 |   | 2020     | 350240             | 261684                          | **74.7156**                         | 88556                         | **25.2844**                         | 113136780                           | 29087765                          |
 
--   Over the years, we can say that, out of **'100'** products sold,
+- Over the years, we can say that, out of **'100'** products sold,
 
-    -   on an Average **'76'** would be through "**BRICK & MORTAR**" stores &
+    - on an Average **'76'** would be through "**BRICK & MORTAR**" stores &
         **'24'** would be through "**E-COMMERCE**" Channels.
 
--   So, it's a no-brainer that their **'BRICK & MORTAR'** stores are the major
+- So, it's a no-brainer that their **'BRICK & MORTAR'** stores are the major
     contributors of their 'Total **Revenue'**!
 
-    -   On an avg, 'BRICK & MORTAR' stores generate "**3.13x**" more Revenue
+    - On an avg, 'BRICK & MORTAR' stores generate "**3.13x**" more Revenue
         than 'E-COMMERCE' Channels.
 
--   Best bet to continuously increase revenue and be **future-proof** is to
+- Best bet to continuously increase revenue and be **future-proof** is to
     increase their efforts on **'Online Presence'** through **'Digital
     Marketing'** and flourish over **'E-COMMERCE'** !!
 
-1.  **Top 5 Customers** each year:
+4.  **Top 5 Customers** each year:
 
 |   | **Yearr** | **Rnk** | **customer_code** | **customer_name**         | **customer_type** | **Revenue** | **Contribution_to_Total_Revenue_that_year** |
 |---|-----------|---------|-------------------|---------------------------|-------------------|-------------|---------------------------------------------|
@@ -308,30 +307,30 @@ years.
 |   | 2020      | 4       | Cus022            | Electricalslytical        | E-Commerce        | 5537904     | 3.89                                        |
 |   | 2020      | 5       | Cus007            | Info Stores               | Brick & Mortar    | 5064374     | 3.56                                        |
 
--   The list remains nearly **consistent**, with most pertinent customers being
+- The list remains nearly **consistent**, with most pertinent customers being
     :
 
-    -   **"Electricalsara Stores"**
+    - **"Electricalsara Stores"**
 
-    -   "Electricalslytical"
+    - "Electricalslytical"
 
-    -   "Excel Stores"
+    - "Excel Stores"
 
-    -   "Premium Stores"
+    - "Premium Stores"
 
--   The best customer, which has always topped the list by a huge margin is :
+- The best customer, which has always topped the list by a huge margin is :
     **"Electricalsara Stores"**
 
-    -   contributing on an Average **"42%" to the Annual Revenue**
+    - contributing on an Average **"42%" to the Annual Revenue**
 
--   If we see the list after "Electricalsara Stores", all others' contribution
+- If we see the list after "Electricalsara Stores", all others' contribution
     is merely in Single Digits, **mostly around '5%'**
 
-    -   this shows that, the remaining Revenue after the contribution from
+    - this shows that, the remaining Revenue after the contribution from
         "Electricalsara Stores", is **shared in small parts** among lot of
         customers.
 
--   Mostly all the Customers in the list are 'BRICK & MORTAR' stores...
+- Mostly all the Customers in the list are 'BRICK & MORTAR' stores...
     "**Electricalslytical**" is the lone **'E-COMMERCE'** customer.
 
 \#====================================================================================
