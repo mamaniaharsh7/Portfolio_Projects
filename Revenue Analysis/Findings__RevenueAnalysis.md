@@ -1,6 +1,7 @@
 # ***FINDINGS:***
 <br/>
 <br/>
+
 > ### \*\*\*\*\* **\#1 'OVERALL TREND CHECK**' \*\*\*\*\*
 
 <br/>
