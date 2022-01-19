@@ -5,6 +5,11 @@
 1.  So, the results show a clear **'decline'** in the Revenue every year. (along
     with Sales Quantity)
 
+
+
+
+
+
 |   | **Year** | **Revenue**      | **Sales_Qty** |
 |---|----------|------------------|---------------|
 |   | 2017     | **9,28,82,653**  | 2,34,462      |
