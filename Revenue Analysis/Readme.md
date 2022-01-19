@@ -1,8 +1,8 @@
 # Revenue Analysis
 
-## Data Source --> (SQL Dump attached in a file above)
+### Data Source --> (SQL Dump attached in a file above)
 
-### Problem Statement :
+## Problem Statement :
 
 > This case study is based on a computer hardware business, *‘AtliQ Hardware’*,
 > which supplies Hardware Peripherals to various clients pan India, but is now
@@ -31,18 +31,21 @@ He wants to know things like :
 Thus, wants to take **Sales related decisions backed by** **DATA**!
 
 
-### Final Dashboards :
+## Final Dashboards :
 
-"A picture is worth a thousand words."
+> "A picture is worth a thousand words."
 
+### 1. REVENUE ANALYSIS :
 <<insert img>>
 ([Click Here!](https://public.tableau.com/app/profile/harshmamania/viz/SalesInsights_RevenueAnalysis/Dashboard-RevenueAnalysi) to checkout the 'Interactive' form of my Dashboard)
 
+### 2. PROFIT ANALYSIS :    
 <<insert img>>
 ([Click Here!](https://public.tableau.com/app/profile/harshmamania/viz/SalesInsights_ProfitAnalysis/Dashboard-ProfitAnalysis) to checkout the 'Interactive' form of my Dashboard)
   
 ### Tools used :
 
-> Here, I've used *_MySQL_* for performing my Analysis on the available SQL Data Dump.
-> To develop the interactive Dashboard, I've used *_TABLEAU_*.
+[^1]: Here, I've used *_MySQL_* for performing my Analysis on the available SQL Data Dump.
+[^2]: To develop the interactive Dashboard, I've used *_TABLEAU_*.
+  
 [^note]: Suggestion and Improvements are always welcome! :grin:
