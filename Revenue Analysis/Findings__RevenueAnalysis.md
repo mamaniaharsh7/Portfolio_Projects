@@ -51,7 +51,7 @@
 
 \#====================================================================================
 
-### \*\*\*\*\* **\#2 'GEOGRAPHIC PRESENCE and REGIONAL CONTRIBUTION'** \*\*\*\*\*
+> ### \*\*\*\*\* **\#2 'GEOGRAPHIC PRESENCE and REGIONAL CONTRIBUTION'** \*\*\*\*\*
 
 1.  They have presence in **14 cities**, which has mostly remained **constant**
     over years.
@@ -79,7 +79,7 @@
 
 \#====================================================================================
 
-### \*\*\*\*\* **\#3 'PRODUCT-WISE PERFORMANCE'** \*\*\*\*\*
+> ### \*\*\*\*\* **\#3 'PRODUCT-WISE PERFORMANCE'** \*\*\*\*\*
 
 1.  Firstly, their inventory includes **'279' different types of products**.
 
@@ -229,7 +229,7 @@ years.
 
 \#====================================================================================
 
-### \*\*\*\*\* **\#4 'CUSTOMER-WISE PERFORMANCE'** \*\*\*\*\*
+> ### \*\*\*\*\* **\#4 'CUSTOMER-WISE PERFORMANCE'** \*\*\*\*\*
 
 1.  Over the lifetime it has served only **"38"** Unique Customers!
 
@@ -338,12 +338,12 @@ years.
 
 
 
-#### 1. REVENUE ANALYSIS :
+> #### 1. REVENUE ANALYSIS :
 ![IMAGE_RevenueAnalysis](https://user-images.githubusercontent.com/86950272/150141755-38812f80-1b28-4079-9dea-2dba99d8d498.png)
 ([Click Here!](https://public.tableau.com/app/profile/harshmamania/viz/SalesInsights_RevenueAnalysis/Dashboard-RevenueAnalysi) to checkout the 'Interactive' form of my Dashboard)
 
     
-#### 2. PROFIT ANALYSIS :    
+> #### 2. PROFIT ANALYSIS :    
 ![IMAGE _ProfitAnalysis](https://user-images.githubusercontent.com/86950272/150141796-6c4b3bb5-81ad-45fc-8dcf-9fd48281f4bb.png)    
 ([Click Here!](https://public.tableau.com/app/profile/harshmamania/viz/SalesInsights_ProfitAnalysis/Dashboard-ProfitAnalysis) to checkout the 'Interactive' form of my Dashboard)
 
