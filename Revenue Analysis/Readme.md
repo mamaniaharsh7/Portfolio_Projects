@@ -1,6 +1,6 @@
 # Revenue Analysis
 
-### Data Source --> (SQL Dump attached in a file above)
+#### Data Source --> (SQL Dump attached in a file above)
 
 ## Problem Statement :
 
@@ -33,13 +33,13 @@ Thus, wants to take **Sales related decisions backed by** **DATA**!
 
 ## Final Dashboards :
 
-> "A picture is worth a thousand words."
+#### > "A picture is worth a thousand words."
 
-### 1. REVENUE ANALYSIS :
+#### 1. REVENUE ANALYSIS :
 <<insert img>>
 ([Click Here!](https://public.tableau.com/app/profile/harshmamania/viz/SalesInsights_RevenueAnalysis/Dashboard-RevenueAnalysi) to checkout the 'Interactive' form of my Dashboard)
 
-### 2. PROFIT ANALYSIS :    
+#### 2. PROFIT ANALYSIS :    
 <<insert img>>
 ([Click Here!](https://public.tableau.com/app/profile/harshmamania/viz/SalesInsights_ProfitAnalysis/Dashboard-ProfitAnalysis) to checkout the 'Interactive' form of my Dashboard)
   
