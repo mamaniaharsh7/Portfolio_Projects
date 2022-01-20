@@ -1,5 +1,8 @@
 > # **Project Planning and Workflow:-**
 
+
+<br/>
+
 1.  Seeing the problem, **Sales Director** decides to invest in **data analysis
     project**, and he would like to build **TABLEAU dashboard** that can give
     him real time **sales insights**. He will do a meeting with IT team, sales
@@ -46,6 +49,9 @@
     stored in **MySQL database**. **Tableau** can be plugged to this database to
     pull necessary information required for **data analysis**.
 
+<br/>
+<br/>
+
 ## **IT Team** :
 
 -   responsible for building and maintaining the **‘Sales Management System’**
@@ -69,6 +75,9 @@
 
 -   Runs **Queries**, **Python Programs** on the Database for **Analysis** and
     hooks it to **Tableau** to build **dashboards**.
+
+<br/>
+<br/>
 
 ### **Note :**
 
