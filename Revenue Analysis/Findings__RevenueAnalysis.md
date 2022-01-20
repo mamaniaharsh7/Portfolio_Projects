@@ -25,6 +25,7 @@
     '28,44,49,089.96' (28.4Cr)
 
 <br/>
+
 2.  This implies,
 
 - from 2017 (estimated 37Cr) to 2018 (41.4Cr) year-on-year growth --\> 0.11346
@@ -39,6 +40,7 @@
 - Which means on an Average, (-0.07591) **'7.5% decline'** in Revenue every year.
 
 <br/>
+
 3.  Quarter-on-Quarter (Q-O-Q) :
 
 |   | **Yearr** | **Quarterr** | **Quarterly_Revenue** | **Quarterly_Revenue_Change** | **Sales_Qty** |
@@ -60,6 +62,7 @@
 \#====================================================================================
 <br/>
 <br/>
+
 > ### \*\*\*\*\* **\#2 'GEOGRAPHIC PRESENCE and REGIONAL CONTRIBUTION'** \*\*\*\*\*
 <br/>
 1.  They have presence in **14 cities**, which has mostly remained **constant**
