@@ -59,6 +59,7 @@
 
 <br/>
 <br/>
+
 \#====================================================================================
 <br/>
 <br/>
@@ -77,6 +78,7 @@
 |   | 2020      | **14**                  |
 
 <br/>
+
 2.  The **Top 5 Revenue Generating Cities** have nearly remained the same (and
     in the same order as well) throughout the Years.
 
@@ -93,14 +95,18 @@
 
 <br/>
 <br/>
+
 \#====================================================================================
 <br/>
 <br/>
+
 > ### \*\*\*\*\* **\#3 'PRODUCT-WISE PERFORMANCE'** \*\*\*\*\*
 <br/>
+
 1.  Firstly, their inventory includes **'279' different types of products**.
 
 <br/>
+
 2.  Out of the '279' total types of products in the inventory, not all types
     have been sold each year... there's been lot of fluctuations!
 
@@ -121,6 +127,7 @@
     **'197'** types of products have made their way.
 
 <br/>
+
 3.  We see that, the **Product Prices** range from :
 
 - **'Rs.0.9024'** (when 41-Qty were sold for Rs.37) to
@@ -131,6 +138,7 @@
     !!**
 
 <br/>
+
 4.  **Categorizing** the products based on prices:
 
 |   | **Price_Range**  | **No_of_Unique_Products_in_this_Range** | **Revenue_Generated_from_this_Range** | **Percentage_contribution_to_Revenue** |
@@ -167,6 +175,7 @@
         categories of 'Price_Range'.
 
 <br/>
+
 5.  **‘Own Brand’** vs **‘Distribution’** products:
 
 |   | **YEARR** | **Total_SalesQty** | **SalesQty_OWN_BRAND** | **Percent_of_Total_SalesQty** | **SalesQty\_** **DISTRIBUTION** | **Percent_of_Total_SalesQty** | **Revenue_from\_** **OWN_BRAND** | **Revenue_from\_** **DISTRIBUTION** |
@@ -187,7 +196,8 @@
     than **'Dsitribution'** products.
 
 <br/>
-6.  Top 5 Products Annually:
+
+6.  **Top 5 Products** Annually:
 
 |   | **Yearr** | **Rnk** | **product_code** | **product_type** | **Revenue** | **Contribution_to_Total_Revenue_that_year** |
 |---|-----------|---------|------------------|------------------|-------------|---------------------------------------------|
@@ -251,14 +261,18 @@ years.
 
 <br/>
 <br/>
+
 \#====================================================================================
 <br/>
 <br/>
+
 > ### \*\*\*\*\* **\#4 'CUSTOMER-WISE PERFORMANCE'** \*\*\*\*\*
 <br/>
+
 1.  Over the lifetime it has served only **"38"** Unique Customers!
 
 <br/>
+
 2.  Annually Repeating/New Customers :
 
 |   | **Yearr** | **DISTINCT customer_code** |
@@ -282,6 +296,7 @@ years.
 - No previous customer unserved in any year! --**100% Customer Retention.**
 
 <br/>
+
 3.  **Brick & Mortar** vs. **E-Commerce** sales:
 
 |   | **year** | **Total_SalesQty** | **SalesQty\_** **BRICK&MORTAR** | **Percent_of\_** **Total_SalesQty** | **SalesQty\_** **E-COMMERCE** | **Percent_of\_** **Total_SalesQty** | **Revenue_from\_** **BRICK&MORTAR** | **Revenue_from\_** **E-COMMERCE** |
@@ -307,6 +322,7 @@ years.
     Marketing'** and flourish over **'E-COMMERCE'** !!
 
 <br/>
+
 4.  **Top 5 Customers** each year:
 
 |   | **Yearr** | **Rnk** | **customer_code** | **customer_name**         | **customer_type** | **Revenue** | **Contribution_to_Total_Revenue_that_year** |
@@ -363,6 +379,7 @@ years.
 
 <br/>
 <br/>
+
 \#====================================================================================
 <br/>
 <br/>
