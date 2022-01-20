@@ -31,7 +31,7 @@ He wants to know things like :
 Thus, wants to take **Sales related decisions backed by** **DATA**!
 
 
-## Final Dashboards :
+## Final Dashboards:
 
 #### *"A picture is worth a thousand words."*
 
