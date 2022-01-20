@@ -37,7 +37,7 @@ SELECT /* top 5 */ COLUMN_NAME
 --=================================================================
 
 
---					***** #1 ‘MORTALITY RATE’ *****
+--					***** #1 â€˜MORTALITY RATEâ€™ *****
 
 --'Overall' view of 'Total_Cases', 'Total_Deaths' and 'Mortality_Rates' in the World, till date.
 
