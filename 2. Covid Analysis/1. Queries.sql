@@ -14,7 +14,7 @@ How continents are specified :	location-Asia, continent-NULL.
 */
 
 
---=================================================================
+--===================================================================================================================================================================================================
 
 
 --					***** overview of the Data presented *****
@@ -34,10 +34,10 @@ SELECT /* top 5 */ COLUMN_NAME
    AND TABLE_NAME = 'CovidDeaths';
 
 
---=================================================================
+--===================================================================================================================================================================================================
 
 
---					***** #1 ‘MORTALITY RATE’ *****
+--					***** #1 â€˜MORTALITY RATEâ€™ *****
 
 --'Overall' view of 'Total_Cases', 'Total_Deaths' and 'Mortality_Rates' in the World, till date.
 
@@ -65,7 +65,7 @@ SELECT location, date, total_cases, total_deaths, (total_deaths/total_cases)*100
 --and currently if u're in INDIA, and infected with Covid, there is just 1.3% chance that u may die of it!
 
 
---=================================================================
+--===================================================================================================================================================================================================
 
 
 --					***** #2 Plain and simple, Highest No. of Deaths till date *****
@@ -86,7 +86,7 @@ SELECT continent, MAX(cast(total_deaths as int)) as Total_Death_Count_till_date
 	ORDER BY Total_Death_Count_till_date DESC;
 
 
---=================================================================
+--===================================================================================================================================================================================================
 
 
 --					***** #3 Countries with the Highest Infection_Rate compared to Population *****
@@ -111,7 +111,7 @@ SELECT location, population, MAX(total_cases) as Max_Total_Cases,
 --big countries here are : Israel, USA, European countries mostly like : UK, France, Netherland, Spain, Belgium.
 
 
---=================================================================
+--===================================================================================================================================================================================================
 
 
 --					***** #4 On a particular DATE, what were the Cases, Deaths, Mortality around the world *****
@@ -142,7 +142,7 @@ Maximum Total_Deaths on a single day, around the world were 17,977, which was on
 */
 
 
---=================================================================
+--===================================================================================================================================================================================================
 
 
 --					***** #5 Total Global Population vs. Total Global 'VACCINATED' Population (with 'Rolling counter' on the fly) *****
@@ -160,7 +160,7 @@ SELECT deaths.continent, deaths.location, deaths.date, deaths.population, vaccs.
 SELECT * FROM CovidAnalysis..CovidVaccinations
 
 
---=================================================================
+--===================================================================================================================================================================================================
 
 
 --					***** #6 using CTE --> How much % of Population is 'VACCINATED'? ...on the Fly. *****
@@ -192,7 +192,7 @@ SELECT *, ((Vaccs_Counter_Rolling/population)*100) as Percent_Population_Vacced
 	ORDER BY Percent_Population_Vacced DESC; */
 
 
---=================================================================
+--===================================================================================================================================================================================================
 
 
 --					***** #7 using TEMP TABLE --> How much % of Population is 'VACCINATED'? ...on the Fly. *****
@@ -229,7 +229,7 @@ SELECT *, ((cumulative_vaccs_temp/population_temp)*100) as Percent_Population_Va
 --note : this includes people who've recieved Both doses, as well as ones with just 1st dose.
 
 
---=================================================================
+--===================================================================================================================================================================================================
 
 
 --					***** #8 using VIEWS (to store Data for later Visualization.) *****
@@ -252,7 +252,7 @@ SELECT location, Total_Death_Count_till_date FROM DeathsPerContinent
 sp_helptext DeathsPerContinent;
 
 
---=================================================================
+--===================================================================================================================================================================================================
 
 
 --					***** #9 overall VACCINATION Stats. *****
@@ -283,7 +283,7 @@ where a.continent is not null and a.location like '%indi%'--i.e. only Continents
 order by 1
 
 
---=================================================================
+--===================================================================================================================================================================================================
 
 
 --					***** #10 Places which are at least risk as of now. (highest People Vaccinated per 100) *****
@@ -297,4 +297,4 @@ SELECT continent, location,
 	ORDER BY Ppl_vaccd_per_100, Ppl_FullyVaccd_per_100 DESC
 
 
---=================================================================
+--===================================================================================================================================================================================================
