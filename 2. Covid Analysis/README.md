@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-## Motivation :
+## Motivation:
 <br/>
 
 > Throughout this catastrophical crisis, the international statistics community has continued to work together, in partnership with national statistical offices and systems around the world to ensure that the best quality data and statistics are available to support decision making during and after the crisis. With this project, I have tried to give a small flavor of that cooperation.
