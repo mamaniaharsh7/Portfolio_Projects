@@ -43,7 +43,7 @@ is an unprecedented crisis, and no aspect of our lives is immune!"
 <br/>
 <br/>
 
-## Project Workflow :
+## Project Workflow:
 -   Pulled live data from the Website in the form of CSV files.
 -   Used *_EXCEL_* to clean the Data from NULL Values and partition the Dataset.
 -   Then, I've plugged the **CSV** files to *_SQL SERVER_* in order to perform my Analysis.
