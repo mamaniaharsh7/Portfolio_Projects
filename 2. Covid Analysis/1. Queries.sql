@@ -1,5 +1,5 @@
 
-										/*-- COVID ANALYSIS --*/
+								/*-- COVID ANALYSIS --*/
 
 
 --Database name --> CovidAnalysis
