@@ -1,5 +1,5 @@
 
-										/*-- PROPERTY SALES ANALYSIS --*/
+						/*-- PROPERTY SALES ANALYSIS --*/
 
 
 -- Database name --> house_property_sales
