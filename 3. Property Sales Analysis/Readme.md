@@ -18,7 +18,7 @@
 > Stakeholders can visualize it and make better decisions. 
 <br/>
 
-> Here, we have an accumulated property sales data for for one specific region, with around 25 Pincodes, spanning over the period of 2007 to 2019, for different property types. The data contains sales prices for houses and units with 1,2,3,4,5 bedrooms.
+> Here, we have an accumulated property sales dataset for for one specific region, with around 25 Pincodes, spanning over the period of 2007 to 2019, for different property types. The data contains sales prices for houses and units with 1,2,3,4,5 bedrooms.
 <br/>
 
 ### I've tried to generate insights and trends related to:
@@ -46,6 +46,5 @@ Thus, I've tried to present a factful account of numbers which can help influenc
 
     
 Suggestion and Improvements are always welcome! :grin:
-
 <br/>
 
