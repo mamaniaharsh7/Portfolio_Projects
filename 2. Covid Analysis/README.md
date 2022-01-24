@@ -17,10 +17,10 @@
 <br/>
 
 > The Data that I've pulled from the forementioned [source](https://ourworldindata.org/covid-deaths) consists of 1,10,000+ records from '01-01-2020' to '03-09-2021' spanning across all the continents and countries, with fields like date, population, cases, deaths, vaccinations, etc.
-> In the Dataset, for some countries the number of confirmed deaths is much lower than the true number of deaths. This is because of limited testing and challenges in the attribution of the cause of death.
+> In the Dataset, for some countries the number of confirmed deaths is a bit lower than the true number of deaths. This is because of limited testing and challenges in the attribution of the cause of death.
 <br/>
 
-> With new statistical records being set on an almost weekly basis, the statistics I've presented in this project are just the tip of the iceberg. I encourage you to visit the [websites](https://ourworldindata.org/covid-deaths), where you’ll can find a wealth of data and high-quality information.
+> With new statistical records being set on an almost weekly basis, the statistics I've presented in this project are just the tip of the iceberg. I encourage you to visit the [website](https://ourworldindata.org/covid-deaths), where you’ll find a wealth of high-quality data and information.
 
 <br/>
 <br/>
@@ -37,8 +37,8 @@
 
 -   *and finally, an Interactive Dashboard to sum up my findings*
 
-Thus, I've tried to present a factful account of the real data. Although a wide range of topics are covered in this project, a consistency of message is clear – this
-is an unprecedented crisis, and no aspect of our lives is immune!
+Thus, I've tried to present a factful account of the ground-zero data. Although I've covered a wide range of topics in this project, a consistency of message is clear – "this
+is an unprecedented crisis, and no aspect of our lives is immune!"
 <br/>
 <br/>
 <br/>
