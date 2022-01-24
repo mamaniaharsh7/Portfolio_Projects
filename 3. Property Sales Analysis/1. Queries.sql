@@ -311,7 +311,7 @@ ORDER BY yearrr ;
 	2018	 744013.1473		420654.8984
 	2019	 713141.4795		411885.8154
 
--- General Trend in the AVERAGE PRICES has always been UPWARDS, throughout the years.alter
+-- General Trend in the AVERAGE PRICES has always been UPWARDS, throughout the years.
 
 -- TThe average price for a 'house' is pretty much more than a 'unit', always !
 
